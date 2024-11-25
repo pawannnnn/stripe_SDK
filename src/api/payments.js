@@ -35,3 +35,9 @@ try{
   }
  
 }
+
+module.exports={
+  capturePaymentIntent, 
+  createPaymentIntent
+}
+  
