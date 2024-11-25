@@ -31,3 +31,7 @@ async function cancelSubscription(subscriptionId){
   }
 }
   
+module.exports={
+  createSubscription,
+  cancelSubscription
+}
