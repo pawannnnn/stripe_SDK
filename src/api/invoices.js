@@ -33,3 +33,7 @@ async function payInvoice(invoiceId){
   
 }
 
+module.exports={
+  payInvoice, 
+  createInvoice
+}
