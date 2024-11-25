@@ -1,1 +1,17 @@
+{
+  "name": "stripe-sdk",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "stripe": "^10.0.0",
+    "dotenv": "^10.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^9.0.0",
+    "chai": "^4.3.0"
+  }
+}
 
